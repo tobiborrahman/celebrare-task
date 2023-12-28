@@ -1,13 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 .font-arial {
 	font-family: 'Arial', sans-serif;
 }
 
-.font-helvetica {
-	font-family: 'Helvetica', sans-serif;
+.font-courier {
+	font-family: 'Courier', sans-serif;
 }
 
 .font-times-new-roman {
